@@ -1,11 +1,9 @@
 <?php
 
-    session_start();
 	include_once "controller/db.php";
-    $name = $_SESSION['usuario'];
-    if($name == null){
-        header("location: pages-login.php");
-    }
+    
+    
+    
 ?>
 
 <?php include_once 'includes/header.php'; ?>
@@ -45,7 +43,7 @@
  </head>
 
     <body>
-		<?php include_once 'includes/menu.php'; ?>
+		<?php include_once 'includes/menu_home.php'; ?>
 			<div class="content-page">
                 <div class="content">
 
