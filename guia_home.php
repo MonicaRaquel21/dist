@@ -33,40 +33,44 @@
                 <!-- Start Content-->
                 <div class="container-fluid">
 
-                    <div class="row">
-                         <!-- Inicio de contenido-->
-                         <div class="main">
+                <div class="main">
 
-    <div class="myDiv">
-             <h2>BIENVENIDO !!!MATRÍCULATE EN LÍNEA</h2>
-</div>
-  <h1>REQUISITOS</h1>
-        <hr>
-        <CENTER>
-        <h1>¿Qué necesitas para poder llenar la solicitud de matricula?</h1>
+  
+<h1>Instrucciones para el proceso de matricula</h1>
+      <hr>
+      <CENTER>
+      <h1>¿Necesitas ayuda para poder inscribirte en nuestra plataforma?</h1>
 </CENTER>
-       <p>¿Quiere ser parte de nuestra Institución en el 2021?
-Le compartimos el siguiente enlace para que llene la Solicitud de Matrícula en linea y le informaremos por correo el día que tiene que presentarse a la entrevista.</p>
-        <p>-DUI del encargado del alumno</p>
-        <p>-NIT del encargado del alumno</p>
-        <p>-Ser Adulto responsable del alumno a matricular</p>
-        <p>-Carnet de menoridad (Si es necesario)</p>
-        <p>-Número de teléfono del responsable</p>
-        
-        <p class="nota">NOTA:Cualquier duda e incoveniente favor de contactarse con la institución </p>
-        <center>
-        <p><h5>Indicaciones:</h5> Antes de Iniciar proceso de matricula.Revisar si cumple con los requisitos previos para evitar cualquier incoveniente.</p>
+<center>
+      <p>1.Como primer paso despues de leer cada una de las indicaciones y requisitios .Da click en Iniciar proceso de Matricula</p>
+      <img src="img/p1.png" alt="Girl in a jacket" width="900" height="500">
+   
 </center>
-        <div class="requisitos"> </div>
-
-				     <center>
-					
-                   
+<center>
+      <p>2.Llena cada uno de los campos con la información solicitada de click en Guardar y despues  click en el boton Siguiente que aparece 
+      al lado derecho superior de tu formulario.</p>
+      <img src="img/p2.png" alt="Girl in a jacket" width="800" height="500">
+   
 </center>
-				</div>
-    </div>
-                               <!-- fin de contenido-->
-                             
+<center>
+      <p>3.Al igual que es punto anterior llenar el siguiente formulario con la información del padre de familia encargado del estudiante y luego dar en siguiente para visualizar su solicitud.</p>
+      <img src="img/p3.png" alt="Girl in a jacket" width="800" height="500">
+   
+</center>
+<center>
+      <p>4.Como ultimo paso dar en siguiente y luego Finalizar .Asi terminara su proceso de inscripción .Algo que debe tomar en cuenta
+      la institución se mantendra en contacto con su persona para terminar el proceso de matricula</p>
+      <img src="img/p4.png" alt="Girl in a jacket" width="800" height="500">
+   
+</center>
+                 
+                  
+                 
+</center>
+              </div>
+  </div>
+                          
+                       
                              
                             </div> <!-- end card-box-->
                         </div> <!-- end col -->

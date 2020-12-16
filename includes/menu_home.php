@@ -116,13 +116,13 @@
                     
                      <a href="registrar_estudiante_home.php">
                     <i class="far fa-file-alt"></i>
-                        <span>Matricula </span>
+                        <span>Nueva solicitud </span>
                         
                     </a>
                    
                 </li>   
                  <li>
-                <a href="pages-starter.php">
+                <a href="home.php">
                 <i class="far fa-question-circle"></i>
                        
                         <span>Información </span>
@@ -130,7 +130,7 @@
                  
                 </li>
                 <li>
-                <a href="pages-starter.php">
+                <a href="informacion_home.php">
                 <i class="far fa-address-book"></i>
                         <span>Contactos </span>
                     </a>

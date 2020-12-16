@@ -242,7 +242,7 @@
                         </li>
                     </ul>
                     <li>
-                    <a href="view/homeEstudiante.html">
+                    <a href="home.php">
                         <i class="la la-home"></i>
                        
                         <span>Pagina Matricula </span>
